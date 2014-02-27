@@ -43,7 +43,9 @@ import com.gxq.utils.TimeUtils;
 import com.gxq.utils.ToastShow;
 import com.gxq.utils.UserPreference;
 import com.qihoo.renkj.todolist.DatabaseOperate;
-
+/**
+* @author by April- Xiaqing
+*/
 public class MainActivity extends ListActivity {
 
 	private static final String TAG = "MainActivity";
